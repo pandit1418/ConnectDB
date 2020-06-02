@@ -38,7 +38,7 @@ public class ServletActorAdd extends HttpServlet {
 
 			con.close();
 			req.setAttribute("ActorAdd", sb.toString());
-			RequestDispatcher rd = req.getRequestDispatcher("/ServletActorList.jsp");
+			RequestDispatcher rd = req.getRequestDispatcher("/ServletActorList");
 			rd.forward(req, resp);
 		} catch (Exception e) {
 			System.out.println(e);
