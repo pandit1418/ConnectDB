@@ -15,5 +15,6 @@
 	<classpathentry kind="lib" path="C:/working/mysql-connector-java-5.1.48/mysql-connector-java-5.1.48.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jstl-1.2.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/mysql-connector-java-5.1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/harsh/Downloads/spring-tool-suite-4-4.6.2.RELEASE-e4.15.0-win32.win32.x86_64.self-extracting.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

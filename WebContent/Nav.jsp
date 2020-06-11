@@ -68,6 +68,29 @@ body {
 .subnav:hover .subnav-content {
 	display: block;
 }
+
+.topnav input[type=text] {
+	float: right;
+	padding: 6px;
+	margin-top: 8px;
+	margin-right: 16px;
+	border: none;
+	font-size: 17px;
+}
+
+@media screen and (max-width: 600px) {
+	.topnav a, .topnav input[type=text] {
+		float: none;
+		display: block;
+		text-align: left;
+		width: 100%;
+		margin: 0;
+		padding: 14px;
+	}
+	.topnav input[type=text] {
+		border: 1px solid #ccc;
+	}
+}
 </style>
 </head>
 <body>
@@ -92,7 +115,7 @@ body {
 					href="/_connectDB/ServletFilmAdd.jsp">Add Movie</a>
 			</div>
 		</div>
-
 	</div>
-`</body>
+	`
+</body>
 </html>

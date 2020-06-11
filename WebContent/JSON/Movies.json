@@ -1,0 +1,18 @@
+{
+	"film": [
+		{
+			"film_id": 1001,
+			"Title": "ACADEMY DINOSAUR",
+			"Description": "A Epic Drama of a Feminist And a Mad Scientist who must Battle a Teacher in The Canadian Rockies",
+			"ReleaseYear": 2006,
+			"LanguageID": 1,
+			"OriginalLanguageID": 1,
+			"rental_duration":6,
+			"RentalRate": 0.99,
+			"Length": 86,
+			"ReplacementCost": 20.99,
+			"Rating": "PG",
+			"SpecialFeatures": "Deleted Scenes,Behind the Scenes",
+			"last_update": "2006-02-15 05:03:42"
+		}]	
+}

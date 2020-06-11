@@ -16,5 +16,8 @@
 
 	</div>
 ${ActorList}
+	</div>
+		<input type="text" placeholder="Search.." action="">
+	</div>
 </body>
 </html>

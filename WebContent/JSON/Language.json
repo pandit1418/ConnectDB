@@ -1,0 +1,14 @@
+{
+	"Language": [
+		{
+			"languageId": 1,
+			"language": "English",
+			"last_update": "2020-06-06"
+		},
+		{
+			"languageId": 2,
+			"language": "Japanese",
+			"last_update": "2020-06-06"
+		}
+	]
+}
